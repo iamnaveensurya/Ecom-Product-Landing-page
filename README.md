@@ -1,5 +1,5 @@
 
-# HTML & CSS PROJECT 7 Product Homepage ![Project badge](https://img.shields.io/badge/PROJECT%207-HTML%20%26%20CSS-orange)
+# HTML & CSS PROJECT 7 Ecom-Product-Landing-page ![Project badge](https://img.shields.io/badge/PROJECT%207-HTML%20%26%20CSS-orange)
 
 I have created many websites using __*WordPress*__ but This is the first ever website I have written code from scratch using `HTML&CSS` only.
 
@@ -8,13 +8,13 @@ I have created many websites using __*WordPress*__ but This is the first ever we
 ### Screenshot :
 ---
 
->![Project 6 Screenshot](website%20thumbnail.png)
+>![Project 7 Screenshot](website%20thumbnail.png)
 
 
 ### Live Preview :
 ---
 
-[![Project Demo](https://img.shields.io/badge/Deployed%20Link%20-Click%20Here%20for%20%20Live%20Link-green?style=flat-square&logo=Linkfire)](https://planthomepagee.netlify.app/)
+[![Project Demo](https://img.shields.io/badge/Deployed%20Link%20-Click%20Here%20for%20%20Live%20Link-green?style=flat-square&logo=Linkfire)](https://ecom-product-landing-page.netlify.app/)
 
 
 ### Things i have learned working on this project :
